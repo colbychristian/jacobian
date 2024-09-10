@@ -10,6 +10,3 @@ TBD
 
 ## License
 TBD
-
-# rag-tutorial-v2
-"# Jacobian" 
